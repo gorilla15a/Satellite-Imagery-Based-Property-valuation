@@ -1,4 +1,3 @@
-# property-valuation-multimodal
 # Satellite Imagery-Based Property Valuation
 
 This project builds a multimodal regression model to predict housing prices using:
